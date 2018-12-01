@@ -1,1 +1,1 @@
-#paradigmas
+# paradigmas
